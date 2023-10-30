@@ -1,0 +1,3 @@
+^\s*\(fp_text (value|reference|user) "[^"]*" \(at [^)]+\) \(layer "[^"]+"\)
+
+$0 hide
