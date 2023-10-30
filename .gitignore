@@ -1,2 +1,4 @@
 .env
 PCB/*/*-backups/
+PCB/*/*.kicad_sym
+PCB/*/*.pretty
